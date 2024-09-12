@@ -15,6 +15,7 @@ a {
   border-radius: 16px;
   padding: 30px;
 }
+
 header {
   border-bottom: 1px solid #f9f7fe;
   padding: 0 0 30px 0;
@@ -28,7 +29,8 @@ header {
   font-size: 16px;
   padding: 15px 20px;
 }
-.search-button {
+
+.search-form-button {
   background: #885df1;
   padding: 15px 30px;
   border: none;
@@ -37,6 +39,7 @@ header {
   border-radius: 6px;
   color: white;
 }
+
 main {
   padding: 30px 0;
 }
@@ -51,6 +54,7 @@ main {
   font-size: 38px;
   line-height: 48px;
 }
+
 .weather-app-details {
   font-size: 16px;
   color: rgba(39, 33, 66, 0.4);
@@ -65,6 +69,7 @@ main {
 .weather-app-temperature-container {
   display: flex;
 }
+
 .weather-app-icon {
   width: 88px;
   height: 88px;
@@ -75,7 +80,8 @@ main {
   line-height: 88px;
   font-weight: bold;
 }
-.weather-app-unit {
+
+.weatehr-app-unit {
   margin-top: 6px;
   font-size: 28px;
 }
